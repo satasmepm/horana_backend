@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "horana-heights",
+  "private_key_id": "fd78463fb4b1b853d8c8580b3304190dcabe10ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEV+Jmjsvfc3va\n0ax4n77vXqAZZacUm8qTaVm6e+/JZC7ZOsdc9f4z7Lu61R4FT2b2aevmK8w4I8Pg\nqAF6QOaFEO/eTD7OQ+z78aR4eCtOWTNHTIYTf3YKiada+EQacOLXAAtL+keybHEz\nRZTPwl2g1PerFkkCUsCBnUZvsSHxBFDZxg1o08wQJ5D3FxMNynD6AT69axOykBbg\nFeXDVXjn3bW0dKWzvPpQIYc9UEdPkrGA0JFPxiaYssiNoRC84LhMCTpO4vk5zA3n\nfjuBAhsMA+pFsFpfMLXg/h0dmEhV23sqQEoAV1T//J510IVfySfmqbp2Os+d/TJn\nM6NWGtI9AgMBAAECggEAAbQDdkFJ2nPdgK3t8ZPtK5VmDSJZGzAoxzOUQC5gC56v\nW1oLra5CmL+2dy3vFzuzmHKdxb7ehCQnSFUcwis69K+LbSG7L73eGedkNllQgtr6\nO2WaCiRCaV/9UCg0KwiMpzHMZ0nSAmW3a6rwWgcFGeaPCXBljLwcCGPNXx2pvjX3\n+bzNN20o2AhMyZvTrXv0lwW1Dq9YdycKGzc04ysRKpfwDH8LF1Mmnfzusug5E2G2\n/6dyb53dZY078S/nSU7bW33hjrxR9zfnS3ZOVib6xMfEH2h0BTcYoyjcSvdzW7yL\nRvzDnTqJas9/sk7l+fISviQcC9IIIAjSagm2FlZqsQKBgQDvNl3AgMXlEnux2aTw\nUm79YjEQbNEMtMNVTy0WPvhu/VoFcfJeaI4/iYvLzUOZZf5gcNVKbTZGADxvVYpS\nx1ea+S1EnV/AwwFMXJ+qwKKuKOEPi1WBCY3Xa+T8eePrC/xHYHYFAubCls6TszGJ\nOe4wL6voVseBfXBtk6ZygrgW2QKBgQDSH1eo5EhSE+WXjqWRJHG1WRYq/HAUuga6\nslECrvAjguWQ/j7rCjqwWyoGQtQsZtv4L4cOkV8DTo2KydU78zg1tV6G3Xj/e5RD\nSqe38nCSmJg0CR/kEOloljJdu+laukSD7cvMwtTsxC4J8k+aRrSbTiLjCnnb8b3g\nIhLgMtlgBQKBgHxmh4bu8PtaC13IU9Bu7i1zfRSPon+7GcIptMbW5JfDxacDRQn3\n0dIVE9Be5QLHWeyJgUJ9XTY2NTepApBd/p8nanU+amdygiBWIurH11I/DBvrWAIN\nF+ipwaHTOcYoq3/rGDUu9xbHGpMRI3e72rTQddQUHRioRWmW2X6/oECxAoGBALF8\npBEXczdRczgH2Da3sAzdCWqZ/Rqk4BZHlUJM/q8gXEWTXRYwd86L0v2i6ZHv+JK1\nosFdbgJfEhRP1HxlP++uGgCVhyVW/6+vmeg5M3nAx5/8rSF6X45mgHjIx55JhKJj\n9Sgq0qyEMddZBIBuhRRCdhmNuc1db2OppIQYr6D5AoGAHSShxL2Ep8AzCwgU57N7\nghaKvuJmzg/kIOAiFDLvOme1oCMW++/9kHB3e0BaYWXeWyob7mKAx7pRzkZAyi1a\n2gduzewBcpOYlrudEznWChuE3zbWeQiDuGKrs6fmhygvqev5zSE/sPGAcUK3V3i6\nYuXyDwMBkUGsPVeNl8teatU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wffpx@horana-heights.iam.gserviceaccount.com",
+  "client_id": "113600358765006529361",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wffpx%40horana-heights.iam.gserviceaccount.com"
+}
